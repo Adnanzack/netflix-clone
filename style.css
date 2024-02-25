@@ -1,0 +1,222 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(36, 36, 36);
+}
+.main{
+    background-image: url(./images/bg1.jpg);
+    color: white;
+    text-align: center;
+    height: 750px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.header img{
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.header .hedlft{
+    margin-top: 30px;
+    margin-left: 500px;
+    
+}
+.hedlft select{
+    height: 35px;
+    width: 140px;
+    border-radius: 5px;
+    margin-right: 20px;
+    background-color: rgba(0, 0, 0, 0.252);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.hedlft button{
+    height: 35px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+
+}
+.main h1{
+    margin-top: 200px;
+    font-size: 70px;
+    font-weight: bolder;
+}
+.main h3{
+    margin-top: 20px;
+    font-size: 30px;
+}
+.email input{
+    border: solid 1px rgba(255, 255, 255, 0.485);
+    height: 60px;
+    width: 350px;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.252);
+    color: white;
+    font-size: 20px;
+    
+}
+.email button{
+    border: solid 1px rgba(255, 255, 255, 0.485);
+    height: 62px;
+    width: 180px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+.page2{
+    margin-top: 8px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    height: 500px;
+    padding: 30px;
+}
+.pge2img img{
+    height: 300px;
+    width: 500px;
+    margin-top: 50px;
+
+}
+.pge2cntnt h1{
+    font-size: 70px;
+    margin-bottom: -10px;
+}
+.pge2cntnt h3{
+    margin-bottom: -15px;
+    font-size: 25px;
+}
+.page3{
+    margin-top: 8px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    height: 700px;
+    padding: 30px;
+}
+.page3 img {
+    height: 500px;
+    width: 700px;
+    margin-top: px;
+    margin-left: 40px;
+}
+.pge3cntnt h1{
+    font-size: 70px;
+    margin-bottom: -10px;
+    margin-right: 40px;
+
+}
+.pge3cntnt h3{
+    margin-bottom: -15px;
+    font-size: 25px;
+    margin-right: 40px;
+}
+.page4{
+    margin-top: 8px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    height: 600px;
+    padding: 30px;
+}
+.page4 img{
+    height: 500px;
+    width: 700px;
+    margin-top: 50px;
+}
+.pge4cntnt h1{
+    font-size: 70px;
+    margin-bottom: -10px;
+}
+.pge4cntnt h3{
+    margin-bottom: -15px;
+    font-size: 25px;
+}
+.page5{
+    margin-top: 8px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+    height: 600px;
+    padding: 30px;
+}
+.pge5cntnt{
+    margin-top: -49px;
+}
+.pge5cntnt h1{
+    font-size: 70px;
+    margin-bottom: -10px;
+}
+.pge5cntnt h3{
+    margin-bottom: -15px;
+    font-size: 25px;
+}
+.page6{
+    margin-top: 8px;
+    background-color: black;
+    padding: 30px;
+    height: 900px;
+    text-align: center;
+}
+.pge6cntnt h1{
+    margin-top: 0px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 70px;
+}
+.pge6btn button{
+    display: block;
+    height: 80px;
+    width: 70%;
+    margin-top: 10px;
+    margin-left: 230px;
+    background-color: rgb(57, 56, 56);
+    color: white;
+    text-align: left;
+    font-size: 30px;
+}
+.pge6btn button:hover{
+   background-color: rgb(81, 81, 81);
+}
+.page6 h2{
+    text-align: center;
+    color: white;
+}
+.page7{
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 70px;
+    margin-top: 8px;
+    background-color: black;
+}
+.pge7cntnts{
+    margin-top: 40px;
+}
+.pge7cntnt select{
+    height: 35px;
+    width: 140px;
+    border-radius: 5px;
+    margin-right: 20px;
+    background-color: rgba(0, 0, 0, 0.252);
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
